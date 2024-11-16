@@ -1,0 +1,15 @@
+{
+  "name": "@yourusername/my-library",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^18.2.0",
+    "@angular/core": "^18.2.0",
+    "my-library-9789374509": "file:"
+  },
+  "dependencies": {
+    "@yourusername/my-library": "file:",
+    "my-awesome-library-202": "file:",
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
